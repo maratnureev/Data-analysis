@@ -1,4 +1,4 @@
 <?php
-include(__DIR__ . '/parseInput.php');
+include(__DIR__ . '/parseAllInput.php');
 
 parseInputRec();
